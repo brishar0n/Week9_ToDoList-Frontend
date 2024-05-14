@@ -1,1 +1,2 @@
-# Week9_WADS-Frontend
+![Dashboard](/assets/Dashboard.png)
+![Table](/assets/Table.png)
